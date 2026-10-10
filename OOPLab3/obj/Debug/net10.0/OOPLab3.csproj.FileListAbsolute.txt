@@ -1,0 +1,14 @@
+D:\Study\2026-2027\OOP\OOPLab3\OOPLab3\bin\Debug\net10.0\OOPLab3.exe
+D:\Study\2026-2027\OOP\OOPLab3\OOPLab3\bin\Debug\net10.0\OOPLab3.deps.json
+D:\Study\2026-2027\OOP\OOPLab3\OOPLab3\bin\Debug\net10.0\OOPLab3.runtimeconfig.json
+D:\Study\2026-2027\OOP\OOPLab3\OOPLab3\bin\Debug\net10.0\OOPLab3.dll
+D:\Study\2026-2027\OOP\OOPLab3\OOPLab3\bin\Debug\net10.0\OOPLab3.pdb
+D:\Study\2026-2027\OOP\OOPLab3\OOPLab3\obj\Debug\net10.0\OOPLab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\2026-2027\OOP\OOPLab3\OOPLab3\obj\Debug\net10.0\OOPLab3.AssemblyInfoInputs.cache
+D:\Study\2026-2027\OOP\OOPLab3\OOPLab3\obj\Debug\net10.0\OOPLab3.AssemblyInfo.cs
+D:\Study\2026-2027\OOP\OOPLab3\OOPLab3\obj\Debug\net10.0\OOPLab3.csproj.CoreCompileInputs.cache
+D:\Study\2026-2027\OOP\OOPLab3\OOPLab3\obj\Debug\net10.0\OOPLab3.dll
+D:\Study\2026-2027\OOP\OOPLab3\OOPLab3\obj\Debug\net10.0\refint\OOPLab3.dll
+D:\Study\2026-2027\OOP\OOPLab3\OOPLab3\obj\Debug\net10.0\OOPLab3.pdb
+D:\Study\2026-2027\OOP\OOPLab3\OOPLab3\obj\Debug\net10.0\OOPLab3.genruntimeconfig.cache
+D:\Study\2026-2027\OOP\OOPLab3\OOPLab3\obj\Debug\net10.0\ref\OOPLab3.dll
